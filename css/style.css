@@ -20,6 +20,11 @@ main {
     position: relative;
 }
 
+.pokedex {
+    width: 100%;
+    max-width: 425px;
+}
+
 .pokemon_image {
     position: absolute;
     bottom: 55%;
@@ -28,10 +33,6 @@ main {
     height: 18%;
 }
 
-.pokedex {
-    width: 100%;
-    max-width: 425px;
-}
 
 .pokemon_data {
     position: absolute;
