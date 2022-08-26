@@ -9,9 +9,11 @@
 
 body {
     text-align: center;
-    background: linear-gradient(to bottom, #6ab7f5, #fff);
+    background-image: url(../images/arceusbackground.png);
+    background-repeat: no-repeat;
     min-height: 100vh;
 }
+
 
 main {
     display: inline-block;
